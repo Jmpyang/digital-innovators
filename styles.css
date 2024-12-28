@@ -57,7 +57,7 @@ nav a:hover {
     transition: 0.1s;
     /*transform: translate(-10px);*/
     /*transition: transform 1s ease;*/
-    animation: fadeIn 0.7s ease-out forwards;
+   /* animation: fadeIn 0.7s ease-out forwards;*/
   }
   
 .member img, .portfolio-item img {
